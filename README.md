@@ -4,17 +4,17 @@ https://qiita.com/minato-naka/items/2d2def4d66ec88dc3ca2
 <br><br>
 
 ## 使用技術
-・Vue.js 2.6.12
-Llaravel 8.35.1
+・Vue.js 2.6.12<br>
+・Laravel 8.35.1
 <br><br>
 
 ## 搭載機能
-タスクを
+タスクを<br>
 ・登録<br>
 ・一覧表示<br>
 ・詳細表示<br>
 ・更新<br>
-・削除
+・削除<br>
 する機能
 <br><br>
 
