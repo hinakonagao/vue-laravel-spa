@@ -1,4 +1,4 @@
-## todoリスト（Qiita記事での学習）
+## 学習④ todoリスト（Qiita記事での学習）
 教材：Vue.js + LaravelでシンプルなSPA構築チュートリアル<br>
 https://qiita.com/minato-naka/items/2d2def4d66ec88dc3ca2
 <br><br>
